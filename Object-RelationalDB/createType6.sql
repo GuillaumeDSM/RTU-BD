@@ -1,0 +1,1 @@
+create or replace type equipe as table of gardien;

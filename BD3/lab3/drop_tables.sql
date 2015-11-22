@@ -1,0 +1,8 @@
+DROP TABLE GRADES;
+DROP TABLE COURSES;
+DROP TABLE TEACHERS;
+DROP TABLE STUDENTS;
+drop sequence SEQ_TEA;
+drop sequence SEQ_COU;
+drop sequence SEQ_GRA;
+drop sequence SEQ_STU;

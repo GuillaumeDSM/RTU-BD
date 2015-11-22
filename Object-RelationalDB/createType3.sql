@@ -1,0 +1,1 @@
+create or replace type t_animaux as table of animal;
