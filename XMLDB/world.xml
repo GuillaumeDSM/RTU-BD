@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+
+	<humans>
+		<human id="1">
+			<name>Marie</name>
+			<surname>Dupond</surname>
+			<job>Waiter</job>
+			<gender>Female</gender>
+			<heigh>1.8</heigh>
+		</human>
+		<human id="2">
+			<name>Celine</name>
+			<surname>Dupont</surname>
+			<MBTIPersonalityResult>ISFJ</MBTIPersonalityResult>
+			<job>Driver</job>
+			<gender>Female</gender>
+			<heigh>1.6</heigh>
+		</human>
+		<human id="3">
+			<name>Jean</name>
+			<surname>Dupont</surname>
+			<job>Buraucratic</job>
+			<gender>Male</gender>
+			<heigh>1.9</heigh>
+		</human>
+		<human id="4">
+			<name>Alfred</name>
+			<surname>Jones</surname>
+			<gender>Male</gender>
+			<heigh>1.72</heigh>
+		</human>
+		<human id="5">
+			<name>Leonard</name>
+			<surname>Davici</surname>
+			<job>Painter Sculpter</job>
+			<MBTIPersonalityResult>ENTP</MBTIPersonalityResult>
+			<gender>Male</gender>
+			<heigh>1.72</heigh>
+		</human>
+	</humans>
+	
+	<dinosaurs>
+		<dinosaur id="1">
+			<name>Totor</name>
+			<alimentation>Meat</alimentation>
+			<killedDinosaursCount>50</killedDinosaursCount>
+			<heigh>9</heigh>
+		</dinosaur>
+		<dinosaur id="2">
+			<name>Totora</name>
+			<alimentation>Meat</alimentation>
+			<killedDinosaursCount>42</killedDinosaursCount>
+			<heigh>7.42</heigh>
+		</dinosaur>
+		<dinosaur id="3">
+			<name>Siboulette</name>
+			<alimentation>Vegetables</alimentation>
+			<killedDinosaursCount>2</killedDinosaursCount>
+			<heigh>12</heigh>
+		</dinosaur>
+		<dinosaur id="4">
+			<name>Ali</name>
+			<alimentation>Vegetables</alimentation>
+			<killedDinosaursCount>5</killedDinosaursCount>
+			<heigh>4</heigh>
+		</dinosaur>
+	</dinosaurs>
+	
+</world>
